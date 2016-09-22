@@ -1,0 +1,100 @@
+#mine_name {
+  text-align: center;
+}
+
+body {
+ background-color: #f0f8ff ;
+ font-size: 100%;
+ font-family:Sans-Serif;
+}
+
+#image {
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: auto;
+  width: 30%;
+  border: 2px solid black;
+  box-shadow: 10px 10px 5px #888888;
+}
+
+#origin {
+  text-align: center;
+
+}
+
+
+
+#description {
+  text-align: center;
+  text-align: justify;
+  padding-left: 20%;
+  padding-right: 20%;
+
+}
+
+#operation {
+  text-align: center;
+  text-align: justify;
+  
+  padding-left: 20%;
+  padding-right: 20%;
+
+}
+
+#neutralisation {
+  text-align: justify;
+  text-align: center;
+  padding-left: 20%;
+  padding-right: 20%;
+
+}
+
+#dissarming {
+  text-align: justify;
+  text-align: center;
+  padding-left: 20%;
+  padding-right: 20%;
+
+}
+
+#status {
+  text-align: justify;
+  text-align: center;
+  padding-left: 20%;
+  padding-right: 20%;
+
+}
+
+#notes {
+  text-align: justify;
+  text-align: center;
+  padding-left: 20%;
+  padding-right: 20%;
+
+}
+
+#content {
+  text-align: justify;
+  text-align: center;
+  padding-left: 20%;
+  padding-right: 20%;
+
+}
+
+
+
+#type_select {
+  text-align: center;
+
+}
+
+#mine_select {
+  text-align: center;
+}
+
+#heading{
+  text-align: center;
+
+}
